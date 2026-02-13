@@ -2,7 +2,7 @@
 I build end-to-end AI and Machine Learning systems with a focus on real-world impact and ethical design.<br>Currently deepening my knowledge in advanced ML and scalable deployment while collaborating on purpose-driven tech projects.<br>Ask me about AI, startups, or how to turn ideas into working systems — and yes, I play guitar 🎸
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-essam-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:georgesamer05@gmail.com) 
 
 # 💻 Tech Stack:
