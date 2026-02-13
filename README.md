@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on<br>End-to-end Machine Learning systems, NLP applications, and building production-ready AI models from data preprocessing to deployment.<br><br>🤝 I’m looking to collaborate on<br>AI-driven startups, ML/NLP research projects, and human-centered software that solves real-world problems.<br><br>🛠 I’m looking for help with<br>Advanced model optimization, scalable ML system design, and real-world deployment best practices.<br><br>📚 I’m currently learning<br>Advanced Machine Learning, AI system architecture, and improving my backend & deployment skills.<br><br>💬 Ask me about<br>Machine Learning, NLP, startup-oriented AI thinking, or how to move from theory to real projects.<br><br>🎸 Fun fact<br>I play guitar — and I believe rhythm, timing, and patience matter in AI as much as they do in music.
+I build end-to-end AI and Machine Learning systems with a focus on real-world impact and ethical design.<br>Currently deepening my knowledge in advanced ML and scalable deployment while collaborating on purpose-driven tech projects.<br>Ask me about AI, startups, or how to turn ideas into working systems — and yes, I play guitar 🎸
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=georgesamer&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=georgesamer&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgesamer&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=georgesamer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
